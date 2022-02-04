@@ -1,3 +1,3 @@
 # whatever-whatever
 
-Whatver!
+Whatever!
